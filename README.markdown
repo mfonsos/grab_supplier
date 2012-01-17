@@ -261,4 +261,8 @@ vendor
   vendor/rails/. This directory is in the load path.
 
 END.
+<<<<<<< HEAD
 END2.
+=======
+END 3
+>>>>>>> modify-readme
